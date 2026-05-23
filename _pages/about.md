@@ -23,6 +23,7 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2025.01]** Two papers accepted by **ICLR 2025** (CBQ, AugKD).
 * **[2024.11]** One paper accepted by **AAAI 2025** (DiT-SR).
 * **[2024.09]** One paper accepted by **NeurIPS 2024** (U-DiTs).
+* **[2024.07]** One paper accepted by **ECCV 2024** (PQ-SAM).
 * **[2024.02]** Released our new survey paper: "A Survey on Transformer Compression".
 * **[2023.09]** One paper accepted by **NeurIPS 2023 Track on Datasets and Benchmarks** (GenImage).
 * **[2023.04]** Won the Winner Award in **NTIRE Challenge on Image Denoising@CVPR2023**.
@@ -30,6 +31,7 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2022.07]** One paper accepted by **ECCV 2022** (AdaBin).
 
 ## Selected Publications
+<!-- BinaryLLM -->
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
   <!-- 左侧：论文缩略图 -->
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
@@ -47,6 +49,30 @@ My primary focus is to advance modern foundation models and generative AI for re
     <div style="margin-bottom: 8px;">
       <span style="font-style: italic; color: #555;">ICML 2026</span>
       <a href="https://arxiv.org/pdf/2508.06974?" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- U-DiTs -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/UDiTs.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers
+    </h3>
+    <div style="margin-bottom: 5px;">
+      Yuchuan Tian*, <strong>Zhijun Tu*</strong>, Hanting Chen, Jie Hu,Chao Xu, Yunhe Wang
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">NeurIPS 2024</span>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/5d2e24df9cfaad3189833b819c40b392-Paper-Conference.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
     </div>
