@@ -26,7 +26,7 @@ author:
   avatar           : "tuzhijun.png"
   name             : "Zhijun Tu (涂志俊)"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Huawei Fundation Model Dept."
+  bio              : "Researcher at Huawei Fundation Model Dept."
   location         : "Shanghai, China"
   employer         : "Huawei Technologies"
   uri              : # URL
@@ -220,19 +220,19 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
