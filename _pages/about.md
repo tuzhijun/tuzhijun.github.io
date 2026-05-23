@@ -15,7 +15,15 @@ My primary focus is to advance modern foundation models and generative AI for re
 
 
 ## 🔥 News
-* **[2026.05]** One papers accepted by **ICML 2026**.
-* **[2026.03]** One papers accepted by **IEEE Transactions on Image Processing**.
-* **[2025.11]** One papers accepted by **AAAI 2026**.
-* **[2025.05]** One papers accepted by **ICML 2025**.
+* **[2026.05]** One paper accepted by **ICML 2026**(BinaryLLM).
+* **[2026.03]** One paper accepted by **IEEE Transactions on Image Processing**(TAD-SR).
+* **[2025.11]** One paper accepted by **AAAI 2026**(MoR-SR).
+* **[2025.05]** One paper accepted by **ICML 2025**(Diff-MoE).
+* **[2025.01]** Two papers accepted by **ICLR 2025**(CBQ, AugKD).
+* **[2024.11]** One paper accepted by **AAAI 2025**(DiT-SR).
+* **[2024.09]** One paper accepted by **NeurIPS 2024**(U-DiTs).
+* **[2024.02]** Released our new survey paper: "A Survey on Transformer Compression".
+* **[2023.09]** One paper accepted by **NeurIPS 2023 Track on Datasets and Benchmarks**(GenImage).
+* **[2023.04]** Won the Winner Award in **NTIRE 2023 Challenge on Image Denoising** (held in conjunction with **CVPR 2023**).
+* **[2023.02]** One paper accepted by **CVPR 2023**(PTQ4SR).
+* **[2022.07]** One paper accepted by **ECCV 2022**(AdaBin).
