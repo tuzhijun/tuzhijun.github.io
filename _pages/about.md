@@ -91,7 +91,7 @@ My primary focus is to advance modern foundation models and generative AI for re
       One Step Diffusion-based Super-Resolution with Time-Aware Distillation
     </h3>
     <div style="margin-bottom: 5px;">
-      Xiao He, Haoao Tang, <strong>Zhijun Tu*</strong>, Junchao Zhang, Kun Cheng, Hanting Chen, Yong Guo, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
+      Xiao He, Haoao Tang, <strong>Zhijun Tu</strong>, Junchao Zhang, Kun Cheng, Hanting Chen, Yong Guo, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
