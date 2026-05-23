@@ -27,3 +27,6 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2023.04]** Won the Winner Award in **NTIRE 2023 Challenge on Image Denoising** (held in conjunction with **CVPR 2023**).
 * **[2023.02]** One paper accepted by **CVPR 2023** (PTQ4SR).
 * **[2022.07]** One paper accepted by **ECCV 2022** (AdaBin).
+
+## Selected Publications
+
