@@ -73,7 +73,55 @@ My primary focus is to advance modern foundation models and generative AI for re
     <div style="margin-bottom: 8px;">
       <span style="font-style: italic; color: #555;">NeurIPS 2024</span>
       <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/5d2e24df9cfaad3189833b819c40b392-Paper-Conference.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
-      <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
+      <a href="https://github.com/YuchuanTian/U-DiT" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- PTQ4SR -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/PTQ4SR.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      Toward Accurate Post-Training Quantization for Image Super Resolution
+    </h3>
+    <div style="margin-bottom: 5px;">
+      <strong>Zhijun Tu</strong>, Jie Hu, Hanting Chen, Yunhe Wang
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">CVPR 2023</span>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <a href="https://github.com/huawei-noah/Efficient-Computing/tree/master/Quantization/PTQ4SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- AdaBin -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/AdaBin.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets
+    </h3>
+    <div style="margin-bottom: 5px;">
+      <strong>Zhijun Tu</strong>, Xinghao Chen, Pengju Ren, Yunhe Wang
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">ECCV 2022</span>
+      <a href="https://arxiv.org/pdf/2208.08084" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <a href="https://github.com/huawei-noah/Efficient-Computing/tree/master/BinaryNetworks/AdaBin" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
     </div>
   </div>
