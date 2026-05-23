@@ -55,6 +55,54 @@ My primary focus is to advance modern foundation models and generative AI for re
   </div>
 </div>
 
+<!-- MoR -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/MoR.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      Mixture of Ranks with Degradation-Aware Routing for One-Step Real-World Image Super-Resolution
+    </h3>
+    <div style="margin-bottom: 5px;">
+      Xiao He, <strong>Zhijun Tu</strong>, Kun Cheng, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">Project Leader, AAAI 2026</span>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/download/42469/46430" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <!-- <a href="https://github.com/kunncheng/DiT-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- TAD-SR -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/Diff-MoE.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      One Step Diffusion-based Super-Resolution with Time-Aware Distillation
+    </h3>
+    <div style="margin-bottom: 5px;">
+      Xiao He, Haoao Tang, <strong>Zhijun Tu*</strong>, Junchao Zhang, Kun Cheng, Hanting Chen, Yong Guo, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">Project Leader, IEEE TIP</span>
+      <a href="https://arxiv.org/pdf/2408.07476?" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <a href="https://github.com/LearningHx/TAD-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
 <!-- Diff-MoE -->
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
   <!-- 左侧：论文缩略图 -->
@@ -67,13 +115,37 @@ My primary focus is to advance modern foundation models and generative AI for re
       Diff-MoE: Diffusion Transformer with Time-Aware and Space-Adaptive Experts
     </h3>
     <div style="margin-bottom: 5px;">
-      Kun Cheng, Xiao He, Lei Yu, <strong>Zhijun Tu*</strong>, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
+      Kun Cheng, Xiao He, Lei Yu, <strong>Zhijun Tu</strong>, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
       <span style="font-style: italic; color: #555;">Project Leader, ICML 2025</span>
       <a href="https://openreview.net/forum?id=JCUsWrwkKw" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <a href="https://github.com/kunncheng/Diff-MoE" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- RaSS -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/RaSS.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      RaSS: Improving Denoising Diffusion Samplers with Reinforced Active Sampling Scheduler
+    </h3>
+    <div style="margin-bottom: 5px;">
+      Xin Ding, Lei Yu, Xin Li, <strong>Zhijun Tu</strong>, Hanting Chen, Jie Hu, Zhibo Chen
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">Project Leader, CVPR 2025</span>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Ding_RaSS_Improving_Denoising_Diffusion_Samplers_with_Reinforced_Active_Sampling_Scheduler_CVPR_2025_paper.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <!-- <a href="https://github.com/kunncheng/DiT-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
     </div>
   </div>
@@ -115,7 +187,7 @@ My primary focus is to advance modern foundation models and generative AI for re
       Effective Diffusion Transformer Architecture for Image Super-Resolution
     </h3>
     <div style="margin-bottom: 5px;">
-      Kun Cheng, Lei Yu, <strong>Zhijun Tu*</strong>, Xiao He, Liyu Chen, Yong Guo, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
+      Kun Cheng, Lei Yu, <strong>Zhijun Tu</strong>, Xiao He, Liyu Chen, Yong Guo, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
