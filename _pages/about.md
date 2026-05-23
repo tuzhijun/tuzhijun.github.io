@@ -79,6 +79,30 @@ My primary focus is to advance modern foundation models and generative AI for re
   </div>
 </div>
 
+<!-- transformer survey -->
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/TransformerSurvey.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      A Survey on Transformer Compression
+    </h3>
+    <div style="margin-bottom: 5px;">
+      Yehui Tang, Yunhe Wang, Jianyuan Guo, <strong>Zhijun Tu</strong>, Kai Han, Hailin Hu, and Dacheng Tao 
+    </div>
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">Arxiv 2024</span>
+      <a href="https://arxiv.org/pdf/2402.05964" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <!-- <a href="https://github.com/YuchuanTian/U-DiT" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
+
 <!-- PTQ4SR -->
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
   <!-- 左侧：论文缩略图 -->
