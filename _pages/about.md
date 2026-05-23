@@ -83,7 +83,7 @@ My primary focus is to advance modern foundation models and generative AI for re
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
   <!-- 左侧：论文缩略图 -->
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="{{ base_path }}/images/Diff-MoE.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+    <img src="{{ base_path }}/images/TAD-SR.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
   </div>
   <!-- 右侧：论文文字信息 -->
   <div style="flex: 3; min-width: 280px;">
