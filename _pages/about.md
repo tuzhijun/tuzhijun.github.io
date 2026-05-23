@@ -25,7 +25,7 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2024.09]** One paper accepted by **NeurIPS 2024** (U-DiTs).
 * **[2024.07]** One paper accepted by **ECCV 2024** (PQ-SAM).
 * **[2024.02]** Released our new survey paper: "A Survey on Transformer Compression".
-* **[2023.09]** One paper accepted by **NeurIPS 2023 Track on Datasets and Benchmarks** (GenImage).
+* **[2023.09]** One paper accepted by **NeurIPS 2023 Track on Datasets and Benchmarks**.
 * **[2023.04]** Won the Winner Award in **NTIRE Challenge on Image Denoising@CVPR2023**.
 * **[2023.02]** One paper accepted by **CVPR 2023** (PTQ4SR).
 * **[2022.07]** One paper accepted by **ECCV 2022** (AdaBin).
