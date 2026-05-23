@@ -265,7 +265,7 @@ My primary focus is to advance modern foundation models and generative AI for re
     <div style="margin-bottom: 8px;">
       <span style="font-style: italic; color: #555;">Winner Award@CVPR 2023</span>
       <a href="https://arxiv.org/pdf/2404.00633?" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
-      <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Challenge Report]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px;">[Challenge Report]</a>
       <a href="https://cvlai.net/ntire/2023/NTIRE2023awards_certificates.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Award]</a>
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
     </div>
