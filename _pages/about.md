@@ -72,7 +72,7 @@ My primary focus is to advance modern foundation models and generative AI for re
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">**Projctor Leader**, ICLR 2025 Splotlight</span>
+      <span style="font-style: italic; color: #555;">Projctor Leader, ICLR 2025 Splotlight</span>
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <!-- <a href="https://github.com/huawei-noah/Efficient-Computing/tree/master/Quantization/PTQ4SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
