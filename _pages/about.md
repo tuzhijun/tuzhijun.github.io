@@ -29,4 +29,26 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2022.07]** One paper accepted by **ECCV 2022** (AdaBin).
 
 ## Selected Publications
-
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; align-items: flex-start;">
+  <!-- 左侧：论文缩略图 -->
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="{{ base_path }}/images/BinaryLLM.png" alt="Paper Teaser" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" />
+  </div>
+  <!-- 右侧：论文文字信息 -->
+  <div style="flex: 3; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em; font-weight: bold;">
+      Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models
+    </h3>
+    <div style="margin-bottom: 5px;">
+      <strong>Zhijun Tu</strong>, Jian Li, Yuanyuan Xi, Siqi Liu, Chuanjian Liu, Hanting Chen, Jie Hu, Yunhe Wang
+    </div>
+    <div style="font-style: italic; color: #555; margin-bottom: 8px;">
+      ICML 2026
+    </div>
+    <div>
+      <a href="https://arxiv.org/pdf/2508.06974?" style="text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Paper]</a>
+      <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Code]</a> -->
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em;">[Project Page]</a> -->
+    </div>
+  </div>
+</div>
