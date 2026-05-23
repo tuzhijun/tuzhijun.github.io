@@ -42,13 +42,12 @@ My primary focus is to advance modern foundation models and generative AI for re
     <div style="margin-bottom: 5px;">
       <strong>Zhijun Tu</strong>, Jian Li, Yuanyuan Xi, Siqi Liu, Chuanjian Liu, Hanting Chen, Jie Hu, Yunhe Wang
     </div>
-    <div style="font-style: italic; color: #555; margin-bottom: 8px;">
-      ICML 2026
-    </div>
-    <div>
-      <a href="https://arxiv.org/pdf/2508.06974?" style="text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Paper]</a>
-      <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-right: 10px;">[Code]</a> -->
-      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em;">[Project Page]</a> -->
+    <!-- 会议与链接合并到同一行 -->
+    <div style="margin-bottom: 8px;">
+      <span style="font-style: italic; color: #555;">ICML 2026</span>
+      <a href="https://arxiv.org/pdf/2508.06974?" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
+      <!-- <a href="https://github.com/..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
+      <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
     </div>
   </div>
 </div>
