@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhijun Tu, a researcher at Huawei Fundation Model Department. I received the B.S. and M.S. degrees from Xi'an Jiaotong University, where I was advised by [Prof. Pengju Ren](https://scholar.google.com/citations?user=qVYDbvIAAAAJ&hl=en). My research interests lie in efficient systems for large language model and multimodal generation, and model compression.
+I am Zhijun Tu, a researcher at Huawei Fundation Model Department. My research interests lie in efficient systems for large language model and multimodal generation, and model compression.
+
+I received my B.S. and M.S. degrees from Xi'an Jiaotong University in 2019 and 2022, respectively, where I was advised by [Prof. Pengju Ren](https://scholar.google.com/citations?user=qVYDbvIAAAAJ&hl=en). In 2021, I was a research intern at Huawei Noah's Ark Lab, advised by [Dr. Xinghao Chen](https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en) and led by [Dr. Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en).
+
+My primary focus is to advance modern foundation models and generative AI for real-world mobile ecosystems, ultimately democratizing powerful intelligence on everyday devices. To this end, our team is seeking self-motivated Research Interns to collaborate on pioneering projects in efficient multimodal systems. If you are driven to advance cutting-edge multimodal systems and next-generation generative AI, feel free to drop me an email with your CV.
 
 
-A data-driven personal website
+NEWs
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
