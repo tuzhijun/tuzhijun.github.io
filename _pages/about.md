@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhijun Tu, a researcher at Huawei Fundation Model Department. I received the B.S. and M.S. degrees from Xi'an Jiaotong University, where I was advised by [Prof. Pengju Ren]([https://github.com/academicpages/academicpages.github.io](https://scholar.google.com/citations?user=qVYDbvIAAAAJ&hl=en). My research interests lie in efficient systems for large language model and multimodal generation, and model compression.
+I am Zhijun Tu, a researcher at Huawei Fundation Model Department. I received the B.S. and M.S. degrees from Xi'an Jiaotong University, where I was advised by [Prof. Pengju Ren](https://scholar.google.com/citations?user=qVYDbvIAAAAJ&hl=en). My research interests lie in efficient systems for large language model and multimodal generation, and model compression.
 
- You can fork  right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
