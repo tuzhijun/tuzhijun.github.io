@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Zhijun Tu"
 title_separator          : "-"
 name                     : &name "Zhijun Tu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Researcher in Huawei Fundation Model Dept."
+  location         : "Shanghai, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
