@@ -91,11 +91,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       One Step Diffusion-based Super-Resolution with Time-Aware Distillation
     </h3>
     <div style="margin-bottom: 5px;">
-      Xiao He, Haoao Tang, <strong>Zhijun Tu</strong>, Junchao Zhang, Kun Cheng, Hanting Chen, Yong Guo, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
+      Xiao He, Haoao Tang, <strong>Zhijun Tu</strong><sup>†</sup>, Junchao Zhang, Kun Cheng, Hanting Chen, Yong Guo, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, IEEE TIP</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, IEEE TIP</span>
       <a href="https://arxiv.org/pdf/2408.07476?" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <a href="https://github.com/LearningHx/TAD-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
@@ -115,11 +115,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       Diff-MoE: Diffusion Transformer with Time-Aware and Space-Adaptive Experts
     </h3>
     <div style="margin-bottom: 5px;">
-      Kun Cheng*, Xiao He*, Lei Yu, <strong>Zhijun Tu</strong>, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
+      Kun Cheng*, Xiao He*, Lei Yu, <strong>Zhijun Tu</strong><sup>†</sup>, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, ICML 2025</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, ICML 2025</span>
       <a href="https://openreview.net/forum?id=JCUsWrwkKw" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <a href="https://github.com/kunncheng/Diff-MoE" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
@@ -139,11 +139,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       RaSS: Improving Denoising Diffusion Samplers with Reinforced Active Sampling Scheduler
     </h3>
     <div style="margin-bottom: 5px;">
-      Xin Ding, Lei Yu, Xin Li, <strong>Zhijun Tu</strong>, Hanting Chen, Jie Hu, Zhibo Chen
+      Xin Ding, Lei Yu, Xin Li, <strong>Zhijun Tu</strong><sup>†</sup>, Hanting Chen, Jie Hu, Zhibo Chen
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, CVPR 2025</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, CVPR 2025</span>
       <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Ding_RaSS_Improving_Denoising_Diffusion_Samplers_with_Reinforced_Active_Sampling_Scheduler_CVPR_2025_paper.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <!-- <a href="https://github.com/kunncheng/DiT-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
@@ -163,11 +163,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       CBQ: Cross-block Quantization for Large Language Models
     </h3>
     <div style="margin-bottom: 5px;">
-      Xin Ding, Xiaoyu Liu, <strong>Zhijun Tu</strong>, Yun Zhang, Wei Li, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, Baoqun Yin, Yunhe Wang
+      Xin Ding, Xiaoyu Liu, <strong>Zhijun Tu</strong><sup>†</sup>, Yun Zhang, Wei Li, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, Baoqun Yin, Yunhe Wang
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, ICLR 2025 Spotlight</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, ICLR 2025 Spotlight</span>
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <!-- <a href="https://github.com/huawei-noah/Efficient-Computing/tree/master/Quantization/PTQ4SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
@@ -187,11 +187,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       Effective Diffusion Transformer Architecture for Image Super-Resolution
     </h3>
     <div style="margin-bottom: 5px;">
-      Kun Cheng*, Lei Yu*, <strong>Zhijun Tu</strong>, Xiao He, Liyu Chen, Yong Guo, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
+      Kun Cheng*, Lei Yu*, <strong>Zhijun Tu</strong><sup>†</sup>, Xiao He, Liyu Chen, Yong Guo, Mingrui Zhu, Nannan Wang, Xinbo Gao, Jie Hu
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, AAAI 2025</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, AAAI 2025</span>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32247" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <a href="https://github.com/kunncheng/DiT-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a>
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
