@@ -67,11 +67,11 @@ My primary focus is to advance modern foundation models and generative AI for re
       Mixture of Ranks with Degradation-Aware Routing for One-Step Real-World Image Super-Resolution
     </h3>
     <div style="margin-bottom: 5px;">
-      Xiao He, <strong>Zhijun Tu</strong>, Kun Cheng, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
+      Xiao He, <strong>Zhijun Tu</strong><sup>†</sup>, Kun Cheng, Mingrui Zhu, Jie Hu, Nannan Wang, Xinbo Gao
     </div>
     <!-- 会议与链接合并到同一行 -->
     <div style="margin-bottom: 8px;">
-      <span style="font-style: italic; color: #555;">Project Leader, AAAI 2026</span>
+      <span style="font-style: italic; color: #555;"><sup>†</sup>Project Leader, AAAI 2026</span>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/download/42469/46430" style="text-decoration: none; font-size: 0.9em; margin-left: 12px; font-weight: 500;">[Paper]</a>
       <!-- <a href="https://github.com/kunncheng/DiT-SR" style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Code]</a> -->
       <!-- <a href="https://..." style="text-decoration: none; font-size: 0.9em; margin-left: 10px;">[Project Page]</a> -->
