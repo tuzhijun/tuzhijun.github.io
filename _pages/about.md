@@ -19,7 +19,7 @@ My primary focus is to advance modern foundation models and generative AI for re
 * **[2026.03]** One paper accepted by **IEEE Transactions on Image Processing** (TAD-SR).
 * **[2025.11]** One paper accepted by **AAAI 2026** (MoR).
 * **[2025.05]** One paper accepted by **ICML 2025** (Diff-MoE).
-* **[2025.02]** Two papers accepted by **CVPR 2025** (RaSS).
+* **[2025.02]** One paper accepted by **CVPR 2025** (RaSS).
 * **[2025.01]** Two papers accepted by **ICLR 2025** (CBQ, AugKD).
 * **[2024.11]** One paper accepted by **AAAI 2025** (DiT-SR).
 * **[2024.09]** One paper accepted by **NeurIPS 2024** (U-DiTs).
